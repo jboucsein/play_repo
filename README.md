@@ -1,2 +1,2 @@
 # play_repo
-for playing +ü getting used to git
+for playing getting used to git
